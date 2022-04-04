@@ -16,28 +16,40 @@ a {
     text-decoration: none;
     color: #999;
 }
+.physics_projects a{
+    color: #000;
+}
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
+    font size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    color: #999;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
 }
+.color1{  color: #05445E;}
+.color2{  color: #189AB4;}
+.color3{  color: #75E6DA;}
+.color4{  color: #D4F1F4;}
