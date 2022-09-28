@@ -53,3 +53,7 @@ ul.posts li {
 .color2{  color: #189AB4;}
 .color3{  color: #75E6DA;}
 .color4{  color: #D4F1F4;}
+
+img {
+  display: inline-block;
+}
